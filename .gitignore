@@ -1,2 +1,4 @@
 # Ignore the virtual environment directory
 .venv/
+lab1/venv
+lab1/.idea
